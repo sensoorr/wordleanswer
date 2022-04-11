@@ -2,6 +2,14 @@
 
 This python package allows you to get today, yesterday and tomorrow's Wordle answer!
 
+## Install
+
+To install, run the following line in the command prompt / terminal:
+
+```
+pip install wordleanswer
+```
+
 ## Code Example
 
 ```
